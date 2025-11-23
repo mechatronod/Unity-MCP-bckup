@@ -20,13 +20,6 @@ MCP for Unity acts as a bridge, allowing AI assistants (like Claude, Cursor) to 
 
 <img width="406" height="704" alt="MCP for Unity screenshot" src="docs/images/readme_ui.png">
 
----
-
-### 💬 Join Our [Discord](https://discord.gg/y4p8KfzrN4)
-
-**Get help, share ideas, and collaborate with other MCP for Unity developers!**  
-
----
 
 ## Key Features 🚀
 
@@ -383,10 +376,6 @@ Still stuck? [Open an Issue](https://github.com/CoplayDev/unity-mcp/issues) or [
 MIT License. See [LICENSE](LICENSE) file.
 
 ---
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=CoplayDev/unity-mcp&type=Date)](https://www.star-history.com/#CoplayDev/unity-mcp&Date)
 
 ## Unity AI Tools by Coplay
 
