@@ -7,7 +7,6 @@
 3. Click `+` -> `Add package from git URL...`.
 4. Enter:
     ```
-    
     https://github.com/mechatronod/Unity-MCP-bckup.git?path=/MCPForUnity
     ```
 5. Click `Add`.
