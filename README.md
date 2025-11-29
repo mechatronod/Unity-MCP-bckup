@@ -1,7 +1,16 @@
 <img width="676" height="380" alt="MCP for Unity" src="docs/images/logo.png" />
 
-| [English](README.md) | [简体中文](README-zh.md) |
-|----------------------|---------------------------------|
+#### To install via Git URL - backup version
+
+1. Open your Unity project.
+2. Go to `Window > Package Manager`.
+3. Click `+` -> `Add package from git URL...`.
+4. Enter:
+    ```
+    
+    https://github.com/mechatronod/Unity-MCP-bckup.git?path=/MCPForUnity
+    ```
+5. Click `Add`.
 
 #### Proudly sponsored and maintained by [Coplay](https://www.coplay.dev/?ref=unity-mcp) -- the best AI assistant for Unity.
 
@@ -134,7 +143,8 @@ MCP for Unity connects your tools using two components:
 3. Click `+` -> `Add package from git URL...`.
 4. Enter:
     ```
-    https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity
+    
+    https://github.com/mechatronod/Unity-MCP-bckup.git?path=/MCPForUnity
     ```
 5. Click `Add`.
 
